@@ -1,10 +1,10 @@
 # MessageSpamDetection
-A simple text analysis project.
+A simple text analysis project. It will take less than 30 seconds to run the whole project.
 
 There are several functions computing different characteristics of the message, including:
 1. whether a message has links;
 2. whether has spam words;
-3. TF/IDF vector
+3. TF/IDF vector (this feature data was too large to upload)
 4. message length;
 5. whether includes a phone number;
 
